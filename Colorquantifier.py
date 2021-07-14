@@ -44,6 +44,8 @@ def process(df,f):
     
 if input_img:
     process(input_img,cluster_new)
+    
+st.write('Download option will be provided in coming updates , till then take a screenshot ;)')
 
 
 
